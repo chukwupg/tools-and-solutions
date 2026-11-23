@@ -2,7 +2,7 @@
 
 Tools, setup guides and troubleshooting notes from my cybersecurity home lab work. Each entry documents what I built or set up, why, how to use it, and the problems I hit along the way. If you are working on something similar, you are welcome to use or adapt any of it.
 
-Maintained by [Chukwu PraiseGod](https://github.com/chukwupg) · [Portfolio](https://chukwupg.github.io) · [Substack](https://chukwupg.substack.com) · [X](https://x.com/chukwupg) · [LinkedIn](https://linkedin.com/in/cchukwupg) 
+Maintained by [Chukwu PraiseGod](https://github.com/chukwupg) · [Portfolio](https://chukwupg.github.io) · [Substack](https://chukwupg.substack.com) · [X](https://x.com/chukwupg) · [LinkedIn](https://linkedin.com/in/chukwupg) 
 
 ## Contents
 
